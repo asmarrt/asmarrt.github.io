@@ -27,7 +27,7 @@ body {
   line-height: 150px;
 }
 .container {
-  max-width: 700px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 #header a {
